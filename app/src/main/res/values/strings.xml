@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="app_name">GUI Demo(17L-4147)</string>
+    <string name="tab1">Relative Layout</string>
+    <string name="tab2">Constraint Layout</string>
+
+    <string name="tab3">Linear Layout</string>
+    <string name="tab4">Frame Layout</string>
+
+    <string name="name">Iffat Alvi\n17L-4147</string>
+    <string name="also_included_in">Also Included In</string>
+    <string name="google">Google</string>
+    <string name="num">$7.89</string>
+    <string name="app">App</string>
+    <string name="whats">What\'s New</string>
+    <string name="number">4.3</string>
+    <string name="preview">Preview</string>
+    <string name="version">Version</string>
+    <string name="gui">-Improved GUI</string>
+    <string name="url">-Better Support for URL</string>
+    <string name="from">From: </string>
+    <string name="to">To: </string>
+    <string name="subject">Subject: </string>
+    <string name="compose">Compose Email</string>
+    <string name="nothing"> </string>
+    <string name="cal">Calendar</string>
+    <string name="post">Posts\n94</string>
+    <string name="followers">Followers\n345</string>
+    <string name="following">Following\n129</string>
+    <string name="editProf">Edit Profile</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign Up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="exit">Exit</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="pass">Password</string>
+    <string name="retypepass">Retype Password</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="title_activity_main_class">MainActivityClass</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 1</string>
+    <string name="tab_text_4">Tab 2</string>
+</resources>
